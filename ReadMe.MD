@@ -18,12 +18,12 @@ sklearn==0.21.3
 Flask
 ```
 ## Description
-
+```bash
 this project has 3 individual parts.
 1.number plate detection
 2.character segmentation from detected plate
 3.character recpgnition
-
+```
 ## number plate detection using Wpod-Net
 
 
