@@ -24,7 +24,7 @@ this project has 3 individual parts.
 2.character segmentation from detected plate
 3.character recpgnition
 ```
-## number plate detection using Wpod-Net
+## 1. number plate detection using Wpod-Net
 
 
 <p align="center">
@@ -36,7 +36,7 @@ Detected cropped plate :
 </p>
 
 
-## character segmentation from detected plate
+## 2. character segmentation from detected plate
 
 ROI and Gray scale convertion:
 <p align="center">
@@ -49,7 +49,7 @@ character detection :
 
 
 
-## character recognition using Neural Networks
+## 3. character recognition using Neural Networks
 
 character recognition :
 <p align="center">
