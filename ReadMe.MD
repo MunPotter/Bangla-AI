@@ -26,11 +26,11 @@ this project has 3 individual parts.
 
 ## number plate detection using Wpod-Net
 
-```bash
+
 <p align="center">
   <a  target="blank"><img src="https://github.com/MunPotter/Bangla-AI/blob/main/Screenshot_7.png" width="320" alt="img" /></a>
 </p>
-```
+
 
 ## character segmantation from detected plate
 
