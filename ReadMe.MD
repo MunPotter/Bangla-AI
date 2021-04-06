@@ -22,7 +22,7 @@ Flask
 this project has 3 individual parts.
 1.number plate detection
 2.character segmentation from detected plate
-3.character recpgnition
+3.character recognition
 ```
 ## 1. number plate detection using Wpod-Net
 
