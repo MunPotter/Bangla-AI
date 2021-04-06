@@ -28,7 +28,7 @@ this project has 3 individual parts.
 
 ```bash
 <p align="center">
-  <a  target="blank"><img src="https://drive.google.com/drive/u/1/folders/1rrt5DvvI7H5eNAGltV12tlFBrfGJvw-Z" width="320" alt="img" /></a>
+  <a  target="blank"><img src="https://github.com/MunPotter/Bangla-AI/blob/main/Screenshot_7.png" width="320" alt="img" /></a>
 </p>
 ```
 
