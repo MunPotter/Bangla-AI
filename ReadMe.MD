@@ -21,7 +21,7 @@ Flask
 
 this project has 3 individual parts.
 1.number plate detection
-2.character segmantation from detected plate
+2.character segmentation from detected plate
 3.character recpgnition
 
 ## number plate detection using Wpod-Net
@@ -30,19 +30,35 @@ this project has 3 individual parts.
 <p align="center">
   <a  target="blank"><img src="https://github.com/MunPotter/Bangla-AI/blob/main/Screenshot_7.png" width="320" alt="img" /></a>
 </p>
+Detected cropped plate :
+<p align="center">
+  <a  target="blank"><img src="https://github.com/MunPotter/Bangla-AI/blob/main/Screenshot_8.png" width="320" alt="img" /></a>
+</p>
 
 
-## character segmantation from detected plate
+## character segmentation from detected plate
 
-```bash
+ROI and Gray scale convertion:
+<p align="center">
+  <a  target="blank"><img src="https://github.com/MunPotter/Bangla-AI/blob/main/Screenshot_9.png" width="320" alt="img" /></a>
+</p>
+character detection :
+<p align="center">
+  <a  target="blank"><img src="https://github.com/MunPotter/Bangla-AI/blob/main/Screenshot_10.png" width="320" alt="img" /></a>
+</p>
 
-```
 
-## character recpgnition using Neural Networks
 
-```bash
+## character recognition using Neural Networks
 
-```
+character recognition :
+<p align="center">
+  <a  target="blank"><img src="https://github.com/MunPotter/Bangla-AI/blob/main/Screenshot_11.png" width="320" alt="img" /></a>
+</p>
+final recognition :
+<p align="center">
+  <a  target="blank"><img src="https://github.com/MunPotter/Bangla-AI/blob/main/Screenshot_12.png" width="320" alt="img" /></a>
+</p>
 
 ## License
 A product of Shazzadul Islam
